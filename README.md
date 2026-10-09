@@ -1,4 +1,4 @@
-📚 Book Recommendation System
+# 📚 Book Recommendation System
 
 A simple **content-based book recommendation system** built with Python, TF-IDF, and K-Nearest Neighbors (KNN). This project also includes exploratory data analysis (EDA) and visualizations of book ratings and popularity.
 
