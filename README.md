@@ -27,8 +27,6 @@ The project reads `books.csv`. The notebook uses these columns:
 | `ratings_count` | Number of reader ratings |
 | `language_code` | Book language code (used in the data overview) |
 
-Some rows in the source CSV may be malformed; the notebook uses `on_bad_lines='skip'`, so such rows may be omitted. Verify the original dataset's license before redistributing it
-
 ## Workflow
 
 1. Import libraries and load the dataset
